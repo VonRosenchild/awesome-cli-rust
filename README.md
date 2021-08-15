@@ -20,7 +20,6 @@ and [@ghuls](https://github.com/zaiste/zaiste.net/issues/7) for broot, git-inter
 | dust      | du-dust   | `du`                                                                | [dust](https://github.com/bootandy/dust)              |  du     |
 | exa       | exa       | `ls`                                                                | [exa](https://github.com/ogham/exa)                   |  exa    |
 | fd        | fd-find   | `find`                                                              | [fd](https://github.com/sharkdp/fd)                   |  fd     |
-| fd        | fd-find   | `find`                                                              | [fd](https://github.com/sharkdp/fd)                   |  fd     |
 | hck       | hck       | `cut` with decompression, column reordering and regex as delimiter | [hck](https://github.com/sstadick/hck)                |  hck    |
 | hyperfine | hyperfine | cli benchmarking                                                    | [hyperfine](https://github.com/sharkdp/hyperfine)     |hyperfine|
 | kalk      | kalk_cli  | formula calculator with types and type conversions                  | [kalk](https://github.com/PaddiM8/kalk)               | kalk    |
@@ -58,7 +57,8 @@ and [@ghuls](https://github.com/zaiste/zaiste.net/issues/7) for broot, git-inter
 
 [fselect](https://github.com/jhspetersson/fselect) - `find` with SQL syntax(bad luck: breaks everytime I compile it)
 [LuminS](https://github.com/wchang22/LuminS) - parallized `rsync`,`cp` and `rm` for local files(no preserve ownership, dry-run, symlink and no RAM-awareness)
-[tcount](https://github.com/RRethy/tcount) once it is provided on crates.io (depends on treesitter grammar status)
+[tcount](https://github.com/RRethy/tcount) - once it is provided on crates.io (depends on treesitter grammar status)
+[sad](https://github.com/ms-jpq/sad) - once it is provided on crates.io
 
 ## todos*
 
